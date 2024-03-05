@@ -38,3 +38,21 @@
   src: local('Montserrat-SemiBold'),
     url(../fonts/Montserrat-SemiBold.woff2) format(woff2)
 }
+
+@font-face {
+  font-family: 'Montserrat-Regular';
+  /* font-weight: 700; */
+  font-style: normal;
+  font-display: swap;
+  src: local('Montserrat-Regular'),
+    url(../fonts/Montserrat-Regular.woff2) format(woff2)
+  }
+
+@font-face {
+  font-family: 'Montserrat-SemiBold';
+  /* font-weight: 400; */
+  /* font-style: italic; */
+  font-display: swap;
+  src: local('Montserrat-SemiBold'),
+    url(../fonts/Montserrat-SemiBold.woff2) format(woff2)
+}
